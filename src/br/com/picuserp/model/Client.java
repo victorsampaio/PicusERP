@@ -1,4 +1,12 @@
 /**
+ * Portuguese:
+ * Modelo -> É a camada que mantém o estado da aplicação, os dados que são transitados e apresentados para o usuário.
+ * Representa os objetos de negócio e executa uma lógica de negócio ao receber os dados vindos da camada de visualização.
+ * A camada de acesso a dados. Isso pode ser acesso direto aos dados, serviços web, etc
+ * 
+ * English: 
+ * Model -> The data access layer. This can be direct data access, web services, etc
+ * Client - Model - Access to Client data.
  * 
  */
 package br.com.picuserp.model;
