@@ -1,5 +1,13 @@
 /**
+ * Portuguese:
+ * Data Access Object 
+ * DAO - É a camada que faz integração com os Repositórios de dados
+ *       O padrão DAO é um padrão de projeto que abstrai e encapsula
+ *       os mecanismos de acesso a dados escondendo os detalhes da 
+ *       execução da origem dos dados. 
  * 
+ * English:
+ * DAO - 
  */
 package br.com.picuserp.dao;
 
