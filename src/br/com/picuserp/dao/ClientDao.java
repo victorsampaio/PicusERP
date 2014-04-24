@@ -1,5 +1,5 @@
 /**
- * 
+ * Especific Access to Object Client
  */
 package br.com.picuserp.dao;
 
